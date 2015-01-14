@@ -1,0 +1,9 @@
+adb shell getevent | grep dev/input/event0 > getevent_input.txt
+
+%%delete first line of getevent_input.txt(device......)
+
+hex_to_dec.py getevent_input.txt
+
+%%delete second line (echoing......)
+
+%%rename the file to sendevent_input.sh and copy to sdcard
