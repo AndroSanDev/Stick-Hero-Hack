@@ -1,4 +1,5 @@
-# Stick-Hero-Hack
+#Stick-Hero-Hack
+
 Android Stick Hero game Hack using Matlab
  
  Prerequisites:
